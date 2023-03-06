@@ -76,3 +76,6 @@ cd /build && mvn clean install -DskipTests && exit
 3. Now goto `ElasticBeanStalk console > Environments > vprofile-bean-prod` 
 and upload the artifact file. 
 
+### References :  
+
+Application source repo : https://github.com/Ajaytekam/AWSVprofileApp
