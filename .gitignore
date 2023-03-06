@@ -1,0 +1,5 @@
+videos/
+.terraform/
+.terraform.lock.hcl
+vprofilekey
+vprofilekey.pem
